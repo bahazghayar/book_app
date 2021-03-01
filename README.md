@@ -2,6 +2,7 @@
 
 **Author**: Baha Zghayar
 **Version**: 1.0.0 Getting data from Google books API and rendering it using EJS templating.
+**Version**: 2.0.0 Storing data on DataBase and rendering it on several pages.
 
 ## Overview
 
@@ -74,3 +75,37 @@ Actual time needed to complete: 15 min
 ## Credits and Collaborations
 
 Anas Sawalha
+
+### Lab 12: Components and forms
+
+01-03-2021 pm - Application now has a fully-functional express server, with GET and POST routes for the book resource, and the user can store the data in the dataBase.
+
+Number and name of feature: #1 saving books to be displayed on the home page.
+
+Estimate of time needed to complete: 1 hour
+
+Start time: 2:45 pm
+
+Finish time: 3:40 pm
+
+Actual time needed to complete: 55 min
+
+Number and name of feature: #2 request information about a single book.
+
+Estimate of time needed to complete: 1 hour
+
+Start time: 3:45 pm
+
+Finish time: 5:10 pm
+
+Actual time needed to complete: 1 hour and 25 min
+
+Number and name of feature: #3 Ability to add new books
+
+Estimate of time needed to complete: 1 hour
+
+Start time: 6:00 pm
+
+Finish time: 6:15 pm
+
+Actual time needed to complete: 1 hour and 15 min
